@@ -143,6 +143,13 @@ changes sharply with model, prompt, formatting and threshold.
 **It is not an authorship classifier and must not be used as one.** A score says
 something about writing, never about a person. Read [ETHICS.md](ETHICS.md).
 
+## Related
+
+[Privacyassay](https://privacyassay.com) measures what a website can read from your
+browser and scores how much of it your browser hides. Same idea applied to a different
+surface: run the check locally, upload nothing, report what the evidence supports and
+no more. Source at [seyedehsanhadi/privacyassay](https://github.com/seyedehsanhadi/privacyassay).
+
 ## License
 
 Apache-2.0 ([full text](LICENSE.txt), [NOTICE](NOTICE)). Cite with
